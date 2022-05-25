@@ -1,5 +1,4 @@
-NOME_DO_CANDIDATO = 'George Rocha'
-EMAIL_DO_CANDIDATO = 'georgebezs@gmail.com'
+
 
 import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
